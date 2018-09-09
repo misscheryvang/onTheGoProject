@@ -1,6 +1,9 @@
 # Group2Project
 This is our main github for the first Web Bootcamp project
 
+# Deployed
+https://misscheryvang.github.io/Homework8/
+
 ## Who is your target audience?
 People on the GO. Looking for a quick information... 
 
